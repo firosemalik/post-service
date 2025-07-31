@@ -19,4 +19,5 @@ public class PostRequest {
 
     @NotEmpty
     private List<@Valid TagRequest> tags;
+
 }
